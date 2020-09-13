@@ -1,0 +1,38 @@
+.thumbnail img{
+	width: 100%;
+	
+}
+.thumbnail{
+	padding: 0;
+}
+
+.thumbnail .caption-full{
+	padding: 9px;
+} 
+#delete-form{
+	display: inline;
+}
+
+#del-form{
+	display: inline;
+}
+
+
+.fa-campground{
+	size: 2x;
+}
+.active a{
+	color:white;
+}
+@media(max-width: 1000px){
+	#heading div{
+		display:none;
+}
+	
+.fadeOut{
+    background-color: rgba(255, 0, 0, 0.83);
+    border-radius: 8px;
+    box-shadow: silver 3px 3px 5px 0px;
+    border: 2px dashed yellow;
+    padding: 3px;
+}
